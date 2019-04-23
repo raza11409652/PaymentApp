@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Payment App</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="hi_user">Hi User !</string>
+    <string name="login_hint">Please Login To Your Account</string>
+    <string name="enterMobile">Enter Reg Number</string>
+    <string name="hint_password">Enter Your Pin</string>
+    <string name="signup">Signup</string>
+    <string name="name_hint">Enter Your Name</string>
+    <string name="forget">Forget Pin ?</string>
+    <string name="reset">Reset Pin</string>
+    <string name="home">Home</string>
+    <string name="card">Card Number</string>
+    <string name="refresh">Reload</string>
+    <string name="uplod_image">Select Image</string>
+    <string name="register_S">User Registration Success</string>
+    <string name="texthint">IOT Based Attendance Management System</string>
+</resources>

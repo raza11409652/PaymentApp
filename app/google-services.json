@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "526133570447",
+    "firebase_url": "https://payment-app-9ca7e.firebaseio.com",
+    "project_id": "payment-app-9ca7e",
+    "storage_bucket": "payment-app-9ca7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526133570447:android:c30a760e9b04a4e7",
+        "android_client_info": {
+          "package_name": "com.hackdroid.paymentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526133570447-5442h8583urvks41gc4r529a4thf74nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackdroid.paymentapp",
+            "certificate_hash": "2a5ac2436c650c4691aa0d238bd3aa4fa2d4b9f2"
+          }
+        },
+        {
+          "client_id": "526133570447-ek99h31j9a2s5g8d929ju36si18dgqsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnkoNrtVZCBuj8JNuL79XDYiPwV5zoK4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526133570447-ek99h31j9a2s5g8d929ju36si18dgqsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

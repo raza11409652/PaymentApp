@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hackdroid.paymentapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SuccessRegistration"></activity>
+        <activity android:name=".UplaodImage" />
+        <activity android:name=".HomeUser" />
+        <activity android:name=".CardRegistration" />
+        <activity
+            android:name=".ForgetPin"
+            android:parentActivityName=".app.Router" />
+        <activity
+            android:name=".RegisterAccount"
+            android:parentActivityName=".app.Router"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".Login" />
+        <activity
+            android:name=".app.Router"
+            android:theme="@style/noActionBar" />
+        <activity
+            android:name=".IntroApp"
+            android:theme="@style/noActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

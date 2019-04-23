@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SuccessRegistration"
+    android:padding="@dimen/parent_layout_padding">
+    <ImageView
+        android:src="@drawable/check"
+        android:layout_gravity="center"
+        android:layout_width="180sp"
+        android:layout_height="180sp" />
+
+    <TextView
+        android:textAlignment="center"
+        android:textSize="@dimen/size_22"
+        android:text="@string/register_S"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/home"
+        android:textColor="@color/colorPrimaryDark"
+        android:theme="@style/PrimaryFlatButton"
+        android:text="@string/home"
+        android:layout_marginTop="@dimen/margin_top_view"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>

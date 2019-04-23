@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_top_view">20sp</dimen>
+    <dimen name="logo_margin_bototm">20sp</dimen>
+    <dimen name="padding_4">4sp</dimen>
+    <dimen name="btn_radius_round">50sp</dimen>
+    <dimen name="btn_padding">18sp</dimen>
+    <dimen name="zero">0sp</dimen>
+    <dimen name="otp_verify_margin" >20sp</dimen>
+    <dimen name="margin_2">2sp</dimen>
+    <dimen name="activity_vertical_margin">20sp</dimen>
+    <dimen name="margin_top_view_card">6sp</dimen>
+    <dimen name="detail_backdrop_height">200sp</dimen>
+    <dimen name="padding_28">28sp</dimen>
+    <dimen name="marginBtmEdit">12sp</dimen>
+    <dimen name="header_text_size">24sp</dimen>
+    <dimen name="padding_8">8sp</dimen>
+    <dimen name="parent_padding">20sp</dimen>
+    <dimen name="padding_12">12sp</dimen>
+    <dimen name="parent_layout_padding">18sp</dimen>
+    <dimen name="btn_radius">4sp</dimen>
+    <dimen name="size_22">22sp</dimen>
+    <dimen name="size_18">18sp</dimen>
+    <dimen name="size_4">4sp</dimen>
+    <dimen name="size_20">20sp</dimen>
+    <dimen name="size_42">42sp</dimen>
+    <dimen name="size_1">1sp</dimen>
+    <dimen name="padding_15">15sp</dimen>
+</resources>
